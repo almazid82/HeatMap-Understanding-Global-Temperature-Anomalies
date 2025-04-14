@@ -1,5 +1,21 @@
 # HeatMap-Understanding-Global-Temperature-Anomalies
- A comprehensive analysis of global temperature anomalies from 1880 to present, exploring seasonal, annual, and regional trends.
+This project presents a comprehensive data-driven analysis of global temperature anomalies from 1880 to the present. It explores seasonal, annual, and regional variations in temperature trends to understand the long-term impacts of climate change.
+
+Using visual heatmaps, line graphs, and statistical summaries, the analysis aims to highlight key patterns and significant deviations in temperature across different time periods and geographic zones. The ultimate goal is to provide valuable insights into global warming trends and support climate-awareness initiatives through accessible and interpretable data visualization.
+
+Key Features:
+
+Historical data analysis (1880–Present)
+
+Seasonal and annual trend comparison
+
+Regional heatmap visualizations
+
+Anomaly detection and pattern recognition
+
+Interactive and informative visuals for presentation
+
+
 # 📌 Overview
 # This project analyzes NASA's Global Temperature Dataset, focusing on data cleaning, preparation, and analysis. The dataset provides temperature variations across different months and seasons, helping to understand long-term trends in global warming.
 ## 🔍 Steps Covered 
