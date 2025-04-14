@@ -16,7 +16,7 @@ Anomaly detection and pattern recognition
 Interactive and informative visuals for presentation
 
 
-##📌 Overview
+#📌 Overview
 ## This project analyzes NASA's Global Temperature Dataset, focusing on data cleaning, preparation, and analysis. The dataset provides temperature variations across different months and seasons, helping to understand long-term trends in global warming.
 ## 🔍 Steps Covered 
 1. Loading the CSV file: Importing and structuring the dataset   
