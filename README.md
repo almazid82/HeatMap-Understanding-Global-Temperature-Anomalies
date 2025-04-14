@@ -43,3 +43,29 @@ Using `df.skew()` to check the distribution pattern:
 ✔ **Advanced Temperature Forecasting Models**  
 ✔ **Comparison with CO₂ Emission Data**  
 ✔ **Regional Anomaly Analysis**
+
+## 📊 Skewness Analysis  
+
+### Understanding Skewness  
+Skewness helps us determine whether the dataset is **symmetrically distributed** or **leaning more towards one side**.  
+- **Positive Skew (> 0)** → Data is **right-skewed** (more lower values, long tail on the right).  
+- **Negative Skew (< 0)** → Data is **left-skewed** (more higher values, long tail on the left).  
+- **Skewness = 0** → Data is **perfectly symmetric**.
+
+### 🔹 Skewness Results from the Dataset  
+| Category | Skewness Value | Interpretation |
+|----------|---------------|----------------|
+| **Year** | `0.0` | Perfectly symmetrical distribution |
+| **Jan-Dec** | `0.955` | Moderately **right-skewed**, indicating more lower temperature anomalies |
+| **Dec-Nov** | `0.954` | Similar right-skewed trend as **Jan-Dec** |
+| **Winter** | `0.765` | Right-skewed, but less extreme than summer/autumn |
+| **Spring** | `0.851` | Right-skewed, showing more frequent lower values |
+| **Summer** | `0.963` | Noticeably right-skewed, suggesting more lower anomalies |
+| **Autumn** | `1.089` | Strongly right-skewed, indicating a heavy right tail |
+
+### 🌍 Interpretation  
+- **All seasonal categories show positive skewness**, meaning **lower temperature anomalies** are more frequent, but extreme highs exist.  
+- **Autumn (1.089) has the strongest skew**, showing the highest variation in anomalies.  
+- **Year column is 0.0**, indicating that time itself has a **balanced spread** within the dataset.  
+
+🚀 This skewness analysis helps identify **how temperature distributions vary over different seasons**, providing insights into **climate change trends**!
