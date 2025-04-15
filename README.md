@@ -141,7 +141,10 @@ The heatmap visualizes the **correlation coefficients** between different season
 - **The strongest correlations** are between **adjacent seasons**, reinforcing gradual transitions in climate patterns over time.  
 
 
-## 📊 Moving Average Trend Analysis  
+## 📊 Moving Average Trend Analysis 
+
+
+![Moving Average Plot](https://raw.githubusercontent.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/main/Moving%20average%20plot.png) 
 
 ### 🌍 Overview  
 This plot showcases the **global temperature anomalies from 1880 to 2024**, using a **5-year moving average** to smooth out short-term variations and highlight long-term warming trends.  
