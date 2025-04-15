@@ -160,3 +160,25 @@ This plot showcases the **global temperature anomalies from 1880 to 2024**, usin
 ✔ **This method is useful for forecasting future temperature variations.**
 
 
+## 📊 Box Plot Analysis - Temperature Anomaly Distribution  
+
+### 🌍 Overview  
+This box plot showcases **temperature anomaly trends from 1881 to 2024**, offering a visual breakdown of how climate variability has evolved over time.
+
+### 🔹 Key Observations  
+- **1881-1940:** Cooler temperatures, with anomalies predominantly negative.  
+- **1940-1980:** Gradual warming trend emerges, reflected in rising median values.  
+- **1980-2000:** Significant temperature anomalies and extreme events begin appearing.  
+- **2000-2024:** Modern climate instability confirmed—anomalies reach unprecedented heights.  
+
+### 🔥 Interpretation  
+✔ **Climate change effects are now consistent and measurable over decades.**  
+✔ **Temperature anomalies are expanding in variability, proving more extreme seasonal fluctuations.**  
+✔ **Predictive modeling can leverage these insights to forecast future global temperatures.**  
+
+### 🚀 Next Steps  
+📌 Analyzing seasonal anomalies for deeper climate impact insights  
+📌 Investigating CO₂ emissions correlation with temperature trends  
+📌 Developing AI-based predictive models for climate forecasting
+
+
