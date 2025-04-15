@@ -122,6 +122,8 @@ Skewness helps us determine whether the dataset is **symmetrically distributed**
 
 ## 🔥 Correlation Analysis of Global Temperature Anomalies  
 
+![Heatmap - Correlation of the Temperature Across the Season](https://raw.githubusercontent.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/main/(Heatmap)%20Correlation%20of%20the%20tempature%20accross%20the%20season.png)
+
 ### 🌍 Understanding Correlation in Temperature Data  
 The heatmap visualizes the **correlation coefficients** between different seasonal and yearly temperature anomalies.  
 - **Correlation close to 1** → Strong positive relationship between variables  
