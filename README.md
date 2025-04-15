@@ -117,4 +117,34 @@ Skewness helps us determine whether the dataset is **symmetrically distributed**
 ### 🔥 Interpretation  
 ✔ **Global warming has accelerated significantly over the last 40 years.**  
 ✔ Temperature anomalies are **not stabilizing**, indicating ongoing climatic shifts.  
-✔ Further investigation into **seasonal variations and future temperature forecasting** could provide more insights into climate trends.  
+✔ Further investigation into **seasonal variations and future temperature forecasting** could provide more insights into climate trends. 
+
+
+## 🔥 Correlation Analysis of Global Temperature Anomalies  
+
+### 🌍 Understanding Correlation in Temperature Data  
+The heatmap visualizes the **correlation coefficients** between different seasonal and yearly temperature anomalies.  
+- **Correlation close to 1** → Strong positive relationship between variables  
+- **Correlation close to 0** → Weak or no relationship between variables  
+
+### 🔹 Key Observations from the Heatmap  
+| Variable Pair | Correlation Value | Interpretation |
+|--------------|------------------|----------------|
+| **Year ↔ Jan-Dec** | `0.88` | Strong correlation, showing yearly trends impact annual temperature anomalies |
+| **Winter ↔ Spring** | `0.96` | Highly correlated, indicating seasonal consistency in temperature variations |
+| **Spring ↔ Summer** | `0.97` | Spring temperatures strongly influence summer anomalies |
+| **Summer ↔ Autumn** | `0.97` | Summer and autumn anomalies have a strong relationship, possibly due to prolonged warming |
+| **Winter ↔ Autumn** | `0.91` | Moderately high correlation, showing year-round warming effects |
+| **Jan-Dec ↔ Dec-Nov** | `1.00` | Identical correlation, confirming annual temperature trends remain consistent |
+
+### 📌 Interpretation  
+- **Yearly temperature trends** significantly affect seasonal anomalies.  
+- **Winter, Spring, and Summer** anomalies are tightly linked, showing **seasonal continuity in temperature shifts**.  
+- **The strongest correlations** are between **adjacent seasons**, reinforcing gradual transitions in climate patterns over time.  
+
+### 📊 Next Steps  
+✔ Explore **historical trends in yearly anomalies**  
+✔ Investigate **seasonal temperature fluctuations** using moving averages  
+✔ Compare **global warming effects on individual seasons**  
+
+🚀 **This correlation analysis helps understand how temperature shifts are interconnected across seasons, providing a clearer picture of climate change impact!** 
