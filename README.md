@@ -32,8 +32,6 @@ Here, [Click here to download the Dataset without cleaning](./GLB.Ts+dSST.csv)�
 5. Converting data types: Ensuring all temperature values are numerical
 6. Checking skewness: Using df.skew() to analyze distribution patterns
 
-## Data Update After Cleaning 
-[Click here to see After Cleaning Data](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/new%20cleaned_temperature_data.csv)
 
 # 🌍 HeatMap - Understanding Global Temperature Anomalies  
 
@@ -89,6 +87,10 @@ Skewness helps us determine whether the dataset is **symmetrically distributed**
 - **Year column is 0.0**, indicating that time itself has a **balanced spread** within the dataset.  
 
 🚀 This skewness analysis helps identify **how temperature distributions vary over different seasons**, providing insights into **climate change trends**!
+
+## Data Update After Cleaning 
+[Click here to see After Cleaning Data](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/new%20cleaned_temperature_data.csv)
+
 
 
 ## 📈 Trend Analysis
