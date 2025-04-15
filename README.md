@@ -61,10 +61,6 @@ Using `df.skew()` to check the distribution pattern:
 ✅ **Checking Skewness (`df.skew()`)**  
 ✅ **Visualizing Trends Using Matplotlib & Seaborn**  
 
-## 📈 Future Enhancements  
-✔ **Advanced Temperature Forecasting Models**  
-✔ **Comparison with CO₂ Emission Data**  
-✔ **Regional Anomaly Analysis**
 
 ## 📊 Skewness Analysis  
 
@@ -144,9 +140,4 @@ The heatmap visualizes the **correlation coefficients** between different season
 - **Winter, Spring, and Summer** anomalies are tightly linked, showing **seasonal continuity in temperature shifts**.  
 - **The strongest correlations** are between **adjacent seasons**, reinforcing gradual transitions in climate patterns over time.  
 
-### 📊 Next Steps  
-✔ Explore **historical trends in yearly anomalies**  
-✔ Investigate **seasonal temperature fluctuations** using moving averages  
-✔ Compare **global warming effects on individual seasons**  
 
-🚀 **This correlation analysis helps understand how temperature shifts are interconnected across seasons, providing a clearer picture of climate change impact!** 
