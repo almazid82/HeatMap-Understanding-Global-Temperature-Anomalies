@@ -93,7 +93,7 @@ Skewness helps us determine whether the dataset is **symmetrically distributed**
 🚀 This skewness analysis helps identify **how temperature distributions vary over different seasons**, providing insights into **climate change trends**!
 
 
-##Trend Analysis 
+## 📈 Trend Analysis
 
 
 ![Trend Analysis](https://raw.githubusercontent.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/main/Trend%20analysis.png)
