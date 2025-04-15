@@ -1,4 +1,9 @@
 # HeatMap-Understanding-Global-Temperature-Anomalies
+
+
+![ Global Temperature dataset analysis](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/Global%20temp.jpg)
+
+
 This project presents a comprehensive data-driven analysis of global temperature anomalies from 1880 to the present. It explores seasonal, annual, and regional variations in temperature trends to understand the long-term impacts of climate change.
 
 Using visual heatmaps, line graphs, and statistical summaries, the analysis aims to highlight key patterns and significant deviations in temperature across different time periods and geographic zones. The ultimate goal is to provide valuable insights into global warming trends and support climate-awareness initiatives through accessible and interpretable data visualization.
