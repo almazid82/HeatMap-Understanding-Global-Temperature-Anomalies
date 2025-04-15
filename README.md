@@ -91,6 +91,7 @@ Skewness helps us determine whether the dataset is **symmetrically distributed**
 - **Year column is 0.0**, indicating that time itself has a **balanced spread** within the dataset.  
 
 🚀 This skewness analysis helps identify **how temperature distributions vary over different seasons**, providing insights into **climate change trends**!
+![Trend Analysis](https://raw.githubusercontent.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/main/Trend%20analysis.png)
 
 
 ![Trend Analysis](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies)
