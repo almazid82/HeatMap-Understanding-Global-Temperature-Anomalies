@@ -31,7 +31,7 @@ Here, [Click here to download the Dataset without cleaning](./GLB.Ts+dSST.csv)â€
 4. Handling missing values (***): Replacing them with NaN and cleaning up the dataset
 5. Converting data types: Ensuring all temperature values are numerical
 6. Checking skewness: Using df.skew() to analyze distribution patterns
-
+[Click here to see After Cleaning Data](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/new%20cleaned_temperature_data.csv)
 
 # ğŸŒ HeatMap - Understanding Global Temperature Anomalies  
 
