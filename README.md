@@ -15,7 +15,7 @@ Anomaly detection and pattern recognition
 
 Interactive and informative visuals for presentation
 
-Here, GLB.Ts+dSST.csv – Contains global temperature anomaly data from 1880 to present, including monthly, seasonal, and annual values. This dataset is used as the foundation for all analysis and visualization in this project.
+Here, [Click here to download the report](./GLB.Ts+dSST.csv)– Contains global temperature anomaly data from 1880 to present, including monthly, seasonal, and annual values. This dataset is used as the foundation for all analysis and visualization in this project.
 
 
 ## 📌 Overview: This project analyzes NASA's Global Temperature Dataset, focusing on data cleaning, preparation, and analysis. The dataset provides temperature variations across different months and seasons, helping to understand long-term trends in global warming.
