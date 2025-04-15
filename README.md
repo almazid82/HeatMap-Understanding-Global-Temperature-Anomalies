@@ -162,7 +162,6 @@ This plot showcases the **global temperature anomalies from 1880 to 2024**, usin
 
 ## 📊 Box Plot Analysis - Temperature Anomaly Distribution  
 
-![Temperature Anomaly Distribution (Box Plot)](https://raw.githubusercontent.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/main/Temparature%20anomaly%20distribution%20(%20Box%20plot).pn)
 
 ![Temparature Anomaly Distribution(Box Plot)](https://raw.githubusercontent.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/main/Temparature%20anomaly%20distribution%20(%20Box%20plot).png)
 
