@@ -91,3 +91,27 @@ Skewness helps us determine whether the dataset is **symmetrically distributed**
 - **Year column is 0.0**, indicating that time itself has a **balanced spread** within the dataset.  
 
 🚀 This skewness analysis helps identify **how temperature distributions vary over different seasons**, providing insights into **climate change trends**!
+
+
+
+## 📈 Trend Analysis  
+
+### 🌍 Observations from Global Temperature Anomalies  
+
+1️⃣ **Long-Term Warming Trend**  
+   - From **1880 to 1940**, temperature anomalies were relatively stable, fluctuating around **-0.25°C to 0.00°C**.  
+   - After **1940**, a noticeable increase in temperature anomalies is observed, marking the beginning of a **consistent warming phase**.  
+
+2️⃣ **Sharp Rise from 1980s Onward**  
+   - Post-1980, temperature anomalies show a **steep upward trend**.  
+   - By **2000s**, anomalies exceeded **0.50°C**, indicating rapid global warming.  
+   - In the **2020s**, the anomalies **crossed 1.25°C**, reinforcing the severe impact of climate change.  
+
+3️⃣ **Evidence of Climate Change Acceleration**  
+   - Earlier fluctuations were **smaller and less frequent**, showing a relatively balanced climate.  
+   - In recent years, **larger jumps** suggest increasing human-induced climate change influences.  
+
+### 🔥 Interpretation  
+✔ **Global warming has accelerated significantly over the last 40 years.**  
+✔ Temperature anomalies are **not stabilizing**, indicating ongoing climatic shifts.  
+✔ Further investigation into **seasonal variations and future temperature forecasting** could provide more insights into climate trends.  
