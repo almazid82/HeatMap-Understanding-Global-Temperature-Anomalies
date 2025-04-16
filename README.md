@@ -235,7 +235,7 @@ to enhance our climate analysis with emission-based insights.
 
 - **Source**: Global CO₂ Emission Records (Public data)
 - **Format**: CSV
-- **Time Period**: 1751 - Recent years
+- **Time Period**: 1880 - Recent years
 - **Frequency**: Annual
 - **Primary Focus**: Emission in Million Metric Tons (MMT)
 
