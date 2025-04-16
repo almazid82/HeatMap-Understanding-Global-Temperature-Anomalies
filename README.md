@@ -223,6 +223,46 @@ This section provides a summary of the **average temperature anomalies** for dif
 - Data is based on a pilot analysis of the global warming dataset.
 - Further insights can be drawn by comparing seasonal anomalies over multiple decades.
 
+### 🗂️ Dataset Overview: CO₂ Emissions
+
+We are now integrating the  
+[📄 CO₂ Emissions Dataset (CSV)](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/CO2%20emisson%20dataset.csv)  
+to enhance our climate analysis with emission-based insights.
+
+---
+
+### 📌 Key Features of the Dataset
+
+- **Source**: Global CO₂ Emission Records (Public data)
+- **Format**: CSV
+- **Time Period**: 1751 - Recent years
+- **Frequency**: Annual
+- **Primary Focus**: Emission in Million Metric Tons (MMT)
+
+#### 📊 Key Columns:
+| Column Name       | Description                                      |
+|-------------------|--------------------------------------------------|
+| `Year`            | The year of record                               |
+| `Total_emissions` | Total global CO₂ emissions in MMT                |
+| `Gas_Fuel`        | CO₂ from gas fuel consumption                    |
+| `Liquid_Fuel`     | CO₂ from liquid fuel (e.g. oil)                  |
+| `Solid_Fuel`      | CO₂ from solid fuel (e.g. coal)                  |
+| `Cement`          | Emissions due to cement production               |
+| `Gas_Flaring`     | Emissions from gas flaring                       |
+
+---
+
+### 🔍 Sample Preview
+
+| Year | Total_emissions | Gas_Fuel | Liquid_Fuel | Solid_Fuel | Cement | Gas_Flaring |
+|------|------------------|----------|--------------|-------------|--------|--------------|
+| 1751 | 3                | 0        | 0            | 3           | 0      | 0            |
+| 1800 | 15               | 0        | 0            | 15          | 0      | 0            |
+| 1850 | 54               | 0        | 0            | 54          | 0      | 0            |
+| 1900 | 534              | 16       | 54           | 420         | 25     | 19           |
+| 1950 | 1630             | 146      | 458          | 898         | 73     | 55           |
+
+> This dataset empowers us to trace the rise of emissions and compare it against global temperature shifts for a deeper, more accurate climate narrative.
 
 
 
