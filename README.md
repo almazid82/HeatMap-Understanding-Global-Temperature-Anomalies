@@ -294,3 +294,18 @@ By bringing these two powerful datasets together, we can:
 > **This shift transforms our project from a visual exploration into a data-driven climate narrative.**
 
 
+## 🔗 Correlation Analysis: Temperature vs CO₂ Emissions
+
+This correlation matrix shows the linear relationship between the *average yearly temperature (Jan-Dec)* and *Annual CO₂ emissions*.
+
+|                         | Jan-Dec | Annual CO₂ emissions |
+|-------------------------|---------|------------------------|
+| *Jan-Dec*             | 1.000   | 0.934                  |
+| *Annual CO₂ emissions*| 0.934   | 1.000                  |
+
+### 📌 Interpretation
+
+- The correlation between *temperature* and *CO₂ emissions* is *0.934, indicating a **strong positive relationship*.
+- This means as *CO₂ emissions increase, the **average global temperature also tends to rise*.
+- Correlation values range from *-1 to +1. A value of **+0.934* suggests a very strong link between the two variables.
+
