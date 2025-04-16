@@ -199,6 +199,30 @@ This box plot showcases **temperature anomaly trends from 1881 to 2024**, offeri
 ✔ **Predictive modeling can leverage these insights to forecast future global temperatures.**  
 
 
+# 🌡️ Global Warming Dataset – Seasonal Average Analysis
+
+This section provides a summary of the **average temperature anomalies** for different seasons. The data helps analyze the seasonal variation of global warming impacts over time.
+
+## 📊 Seasonal Average Temperature Anomalies
+
+| Season  | Average Anomaly | Emoji |
+|---------|------------------|--------|
+| Winter  | 0.069444         | ❄️     |
+| Spring  | 0.075139         | 🌸     |
+| Summer  | 0.063333         | ☀️     |
+| Autumn  | 0.089861         | 🍂     |
+
+## 🔍 Observations
+
+- **Autumn** shows the **highest average anomaly** (*0.089861*), indicating it may be warming faster than other seasons.
+- **Summer** has the **lowest anomaly** (*0.063333*), but still shows signs of warming.
+- All values are **positive**, confirming a **consistent temperature increase** across all seasons.
+
+## 📝 Notes
+
+- Data is based on a pilot analysis of the global warming dataset.
+- Further insights can be drawn by comparing seasonal anomalies over multiple decades.
+
 
 
 
