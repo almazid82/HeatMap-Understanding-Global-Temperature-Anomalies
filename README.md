@@ -309,3 +309,25 @@ This correlation matrix shows the linear relationship between the *average yearl
 - This means as *CO₂ emissions increase, the **average global temperature also tends to rise*.
 - Correlation values range from *-1 to +1. A value of **+0.934* suggests a very strong link between the two variables.
 
+
+# 🌍 CO₂ Emissions & Global Temperature Anomalies Analysis  
+
+## 📌 Overview  
+This research explores how rising **CO₂ emissions impact global temperature anomalies**, providing insights into climate change acceleration.
+
+---
+
+## 🔎 Key Findings  
+- **Positive correlation observed**: As **CO₂ emissions increase, temperature anomalies also rise**.  
+- **Extreme emissions linked to peak temperature values** (1998, 2016, 2020, 2023).  
+- **Future models predict sustained warming trends if CO₂ levels are not controlled.**  
+
+### 📊 Scatter Plot Interpretation  
+A visual representation of the **CO₂ vs. temperature anomaly correlation** confirms that **human-driven emissions directly contribute to global warming**.
+
+---
+
+## 🔥 Climate Change Implications  
+✔ **CO₂ emissions are a key factor influencing climate shifts globally.**  
+✔ **Temperature rise aligns with historical industrial CO₂ trends.**  
+✔ **Predictive modeling should integrate emissions data for future climate projections.**
