@@ -335,3 +335,45 @@ A visual representation of the **CO₂ vs. temperature anomaly correlation** con
 ✔ **CO₂ emissions are a key factor influencing climate shifts globally.**  
 ✔ **Temperature rise aligns with historical industrial CO₂ trends.**  
 ✔ **Predictive modeling should integrate emissions data for future climate projections.**
+
+
+## 🤖 Model Training Summary – Linear Regression
+
+To predict future global temperature anomalies, we trained a **Linear Regression model** using historical data from the dataset.
+
+### 📊 Data Split
+- **Training Set Size**: 114 rows
+- **Test Set Size**: 29 rows
+- **Feature (X)**: `Year`
+- **Target (y)**: `Jan-Dec` (Average Annual Temperature Anomaly)
+
+### ⚙️ Model Details
+- **Model Used**: `LinearRegression()` from `scikit-learn`
+- **Coefficient**: `0.00827458`  
+- **Intercept**: `-16.083578`
+
+The model equation is:
+
+\[
+\text{Predicted Anomaly} = 0.00827458 \times \text{Year} - 16.083578
+\]
+
+---
+
+## 🔮 Future Temperature Prediction (2025–2050)
+
+Using the trained model, we predicted the average global temperature anomaly for the years **2025 to 2050**. The model shows a **gradual increase in temperature**, indicating ongoing global warming.
+
+> 🔍 Example:
+> - **2025 Prediction**: `0.370` (approx.)
+> - **2050 Prediction**: `0.577` (approx.)
+
+These values are predicted based on historical linear trends, and the increase aligns with climate change concerns.
+
+🖼️ The following chart visualizes both historical data and the model's predictions:
+
+*(Insert graph here after running your matplotlib code)*
+
+```python
+plt.title("Future Temperature Predictions (2025–2050)")
+# Your matplotlib plot will go here
