@@ -516,19 +516,21 @@ Global temperatures are rising at an alarming rate. This project investigates ho
   - Use similar models for predicting climate impact on agriculture, coastal areas.
   - Integrate AI into local weather forecasting for early disaster management.
 
----
-
-## Credits
-
-- **Developed by**: [Shamsul Al Mazid]
-- **Guidance**: ChatGPT, OpenAI, Copilot 
-- **Data Sources**: Berkeley Earth, Our World in Data
-
----
 
 ## License
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+This content is shared for **educational and portfolio purposes only**.  
+Licensed under the [MIT License](LICENSE) © 2025 Shamsul Al Mazid.
 
+---
+
+## Contact
+
+**Shamsul Al Mazid**  
+Aspiring Data Analyst  
+Email: [shamsulalmazid@gmail.com]  
+LinkedIn: [linkedin.com/in/shamsul-al-mazid](https://www.linkedin.com/in/shamsul-al-mazid-073a87286)
+- **Guidance**: ChatGPT, OpenAI, Copilot 
+- **Data Sources**: Berkeley Earth, Our World in Data
 
 📌 This project offers a data-driven glimpse into our climate future, serving as a valuable reference for researchers, policymakers, and anyone concerned about the planet.
