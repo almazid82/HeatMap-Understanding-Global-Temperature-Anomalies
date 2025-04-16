@@ -530,7 +530,6 @@ Licensed under the [MIT License](LICENSE) © 2025 Shamsul Al Mazid.
 Aspiring Data Analyst  
 Email: [shamsulalmazid@gmail.com]  
 LinkedIn: [linkedin.com/in/shamsul-al-mazid](https://www.linkedin.com/in/shamsul-al-mazid-073a87286)
-- **Guidance**: ChatGPT, OpenAI, Copilot 
-- **Data Sources**: Berkeley Earth, Our World in Data
+
 
 📌 This project offers a data-driven glimpse into our climate future, serving as a valuable reference for researchers, policymakers, and anyone concerned about the planet.
