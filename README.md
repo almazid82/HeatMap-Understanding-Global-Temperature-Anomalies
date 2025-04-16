@@ -312,6 +312,10 @@ This correlation matrix shows the linear relationship between the *average yearl
 
 # 🌍 CO₂ Emissions & Global Temperature Anomalies Analysis  
 
+To better understand the relationship between **CO₂ emissions** and **temperature anomalies**, we’ve plotted both over time:
+
+![CO₂ vs Temperature Anomaly Over Years](https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/CO2%20vs%20temparature%20anomaly%20over%20year.png)
+
 ## 📌 Overview  
 This research explores how rising **CO₂ emissions impact global temperature anomalies**, providing insights into climate change acceleration.
 
