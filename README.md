@@ -252,15 +252,7 @@ to enhance our climate analysis with emission-based insights.
 
 ---
 
-### 🔍 Sample Preview
 
-| Year | Total_emissions | Gas_Fuel | Liquid_Fuel | Solid_Fuel | Cement | Gas_Flaring |
-|------|------------------|----------|--------------|-------------|--------|--------------|
-| 1751 | 3                | 0        | 0            | 3           | 0      | 0            |
-| 1800 | 15               | 0        | 0            | 15          | 0      | 0            |
-| 1850 | 54               | 0        | 0            | 54          | 0      | 0            |
-| 1900 | 534              | 16       | 54           | 420         | 25     | 19           |
-| 1950 | 1630             | 146      | 458          | 898         | 73     | 55           |
 
 > This dataset empowers us to trace the rise of emissions and compare it against global temperature shifts for a deeper, more accurate climate narrative.
 
