@@ -461,6 +461,12 @@ Global temperatures are rising at an alarming rate. This project investigates ho
 
 ---
 
+## Code for creating this analysis 
+
+https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/import%20pandas%20as%20pd.py
+
+___
+
 ## Tools & Technologies
 
 - **Language**: Python
