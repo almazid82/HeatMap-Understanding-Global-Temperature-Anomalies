@@ -465,14 +465,6 @@ Global temperatures are rising at an alarming rate. This project investigates ho
 
 https://github.com/almazid82/HeatMap-Understanding-Global-Temperature-Anomalies/blob/main/import%20pandas%20as%20pd.py
 
-___
-
-## Tools & Technologies
-
-- **Language**: Python
-- **Libraries**: Pandas, Matplotlib, Seaborn, Plotly
-- **Visualization**: Heatmaps, Boxplots, Moving Averages
-- **Platform**: Visual Studio Code
 
 ---
 
@@ -539,3 +531,16 @@ LinkedIn: [linkedin.com/in/shamsul-al-mazid](https://www.linkedin.com/in/shamsul
 
 
 📌 This project offers a data-driven glimpse into our climate future, serving as a valuable reference for researchers, policymakers, and anyone concerned about the planet.
+
+___
+
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
